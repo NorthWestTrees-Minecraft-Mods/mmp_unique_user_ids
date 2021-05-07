@@ -2,6 +2,10 @@
 This modification is a dependency modification for MCreator/MCToolkit mod creators.    
 Our mod creates a global system for third party mods to use in their mods to allow them to detect unique player IDs.
 
+> ## NOTICE
+> This mod will be maintained but no features will be added to this mod anymore.    
+> I have made a better mod called [Pixelvar](https://github.com/pixelvar/pixelvar) that does this exact same thing but will have new features added.    
+
 # DOWNLOADS
 ## REGULAR DOWNLOADS
 These builds are for regular gameplay.
